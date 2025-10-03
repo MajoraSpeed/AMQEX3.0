@@ -192,7 +192,6 @@
       - [-3083.875,1222]
      notes: Before windbomb to shrine smuggle torch for Kuh Takkar
   - _Warp::Shrine::KuhTakkar:
-     color: blue
   - Setup iSCW:
      notes: Setup Storage
      icon: SCW
@@ -510,3 +509,4 @@
      icon: ganon
 
      notes: Use Urbosa's Fury and GEB w/ AA
+
