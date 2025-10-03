@@ -191,7 +191,6 @@
      movements:
       - [-3083.875,1222]
      notes: Before windbomb to shrine smuggle torch for Kuh Takkar
-- Gerudo 2:
   - _Warp::Shrine::KuhTakkar:
      color: blue
   - Setup iSCW:
@@ -509,4 +508,5 @@
   - .boss(Ganon):
      coord: [-254.00, 191.01, -1061.37]
      icon: ganon
+
      notes: Use Urbosa's Fury and GEB w/ AA
