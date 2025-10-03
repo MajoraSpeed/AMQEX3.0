@@ -191,7 +191,6 @@
      movements:
       - [-3083.875,1222]
      notes: Before windbomb to shrine smuggle torch for Kuh Takkar
-  - _Warp::Shrine::KuhTakkar:
   - Setup iSCW:
      notes: Setup Storage
      icon: SCW
@@ -358,9 +357,6 @@
      notes: Windbomb
   - _Memory::SanidinPark:
      notes: Blls to Memory
-  - Setup SCW:
-     icon: SCW
-     notes: Take storage
 - Gerudo 3:
   - _Warp::Beast::Naboris:
      color: orange
@@ -376,7 +372,7 @@
 - Piaf 2:
   - _Warp::Shrine::KuhTakkar:
      color: red
-  - Setup SCW:
+  - Setup iSCW:
      icon: SCW
   - _Shrine::ShiraGomar:
      notes: Blls to Shira Gomar and use storage w/ Jelly chuchu or scans fish
@@ -509,4 +505,5 @@
      icon: ganon
 
      notes: Use Urbosa's Fury and GEB w/ AA
+
 
